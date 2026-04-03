@@ -319,7 +319,7 @@ Larger councils are more representative. This is a design consideration when set
 ### 9.1 Threat Model
 
 | Threat | Mitigation |
-|--------|-----------|
+|--------|------------|
 | VRF key compromise | Distributed VRF with threshold t-of-k |
 | Sybil attack (fake identities) | L0 biometric-derived identity with ZKP |
 | Collusion among selected | Short terms, rotation, audit (L5) |

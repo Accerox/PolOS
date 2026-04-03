@@ -217,11 +217,11 @@ Recruit 3–5 communities willing to use PolOS for internal governance:
 
 ```
 Year 1:     Phase 0 (Foundation) ──────────────────────►
-Year 1-2:   Phase 1 (Identity) ────────────────────────────────►
-Year 2-3:   Phase 2 (Single Node) ─────────────────────────────────────►
-Year 3-4:   Phase 3 (Node Network) ────────────────────────────────────────────►
-Year 4-6:   Phase 4 (Norm Engine) ─────────────────────────────────────────────────────►
-Year 5+:    Phase 5 (Scale) ───────────────────────────────────────────────────────────────►
+Year 1-2:   Phase 1 (Identity) ────────────────────────────►
+Year 2-3:   Phase 2 (Single Node) ─────────────────────────────────►
+Year 3-4:   Phase 3 (Node Network) ──────────────────────────────────────►
+Year 4-6:   Phase 4 (Norm Engine) ───────────────────────────────────────────►
+Year 5+:    Phase 5 (Scale) ───────────────────────────────────────────────►
 ```
 
 This is an ambitious timeline. It may take longer. That's fine. Getting it right matters more than getting it fast.
