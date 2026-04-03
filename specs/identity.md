@@ -230,7 +230,7 @@ This requires:
 ## 6. Privacy Properties
 
 | Property | Guarantee |
-|----------|-----------|
+|----------|------------|
 | Identity unlinkability | Two verifications by the same person cannot be linked (different ZKPs each time) |
 | Biometric privacy | Biometric data never leaves the user's device |
 | Membership privacy | Can prove membership without revealing which member |
@@ -240,7 +240,7 @@ This requires:
 ## 7. Threat Model
 
 | Threat | Mitigation |
-|--------|-----------|
+|--------|------------|
 | Stolen device (identity key compromised) | Biometric re-derivation on new device; revoke old key |
 | Coerced identity creation | Social verification layer; attestors can flag concerns |
 | Biometric spoofing | Liveness detection at capture; multi-modal biometrics |
